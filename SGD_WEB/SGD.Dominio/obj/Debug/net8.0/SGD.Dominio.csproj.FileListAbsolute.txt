@@ -1,0 +1,5 @@
+D:\Projetos\PROJETOS_WEB\SGD_WEB\SGD_WEB\SGD.Dominio\obj\Debug\net8.0\SGD.Dominio.csproj.AssemblyReference.cache
+D:\Projetos\PROJETOS_WEB\SGD_WEB\SGD_WEB\SGD.Dominio\obj\Debug\net8.0\SGD.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PROJETOS_WEB\SGD_WEB\SGD_WEB\SGD.Dominio\obj\Debug\net8.0\SGD.Dominio.AssemblyInfoInputs.cache
+D:\Projetos\PROJETOS_WEB\SGD_WEB\SGD_WEB\SGD.Dominio\obj\Debug\net8.0\SGD.Dominio.AssemblyInfo.cs
+D:\Projetos\PROJETOS_WEB\SGD_WEB\SGD_WEB\SGD.Dominio\obj\Debug\net8.0\SGD.Dominio.csproj.CoreCompileInputs.cache

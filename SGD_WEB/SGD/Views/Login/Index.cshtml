@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "Login";
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>SGD</title>
+    <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+          name="viewport" />
+    <link rel="icon"
+          href="~/Content/img/kaiadmin/favicon.ico"
+          type="~/Content/image/x-icon" />
+
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/css/cssLogin.css">
+
+    <style>
+        #intro {
+            height: 100vh;
+        }
+
+        .navbar .nav-link {
+            color: #fff !important;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="area">
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+
+    <div class="context">
+        <h1>BR3DPRINT</h1>
+        <h2>v1.1.0</h2>
+        <div class="mask d-flex align-items-center h-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-5 col-md-8">
+                        <form action="@Url.Action("Index","Login")" method="post" class="bg-white rounded shadow-5-strong p-5">
+                            <!-- Email input -->
+                            <div class="form-outline mb-4" data-mdb-input-init>
+                                <label class="form-label" for="form1Example1">Usuário</label>
+                                <input type="text" name="login" class="form-control" value="@User.Identity.Name" />
+                            </div>
+
+                            <!-- Password input -->
+                            <div class="form-outline mb-4" data-mdb-input-init>
+                                <label class="form-label" for="form1Example2">Senha</label>
+                                <input type="password" name="senha" class="form-control" />
+                            </div>
+
+                            <!-- Submit button -->
+                            <button type="submit" class="btn btn-primary btn-block" data-mdb-ripple-init>Login</button>
+                            @if (ViewBag.ErrorUser != null)
+                            {
+                                <button class="btn btn-danger">Login ou Senha Incorreta!</button>
+                            }
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

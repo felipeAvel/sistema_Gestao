@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|d:\\projetos\\projetos_web\\sgd_web\\sgd_web\\sgd\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|solutionrelative:sgd\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|d:\\projetos\\projetos_web\\sgd_web\\sgd_web\\sgd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|solutionrelative:sgd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|d:\\projetos\\projetos_web\\sgd_web\\sgd_web\\sgd\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|solutionrelative:sgd\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|d:\\projetos\\projetos_web\\sgd_web\\sgd_web\\sgd\\views\\usuario\\inserirusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AB13DB-8C1B-419A-827A-1D17F23EBCCF}|SGD\\SGD.csproj|solutionrelative:sgd\\views\\usuario\\inserirusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04726DA-7B1F-4B62-9AC8-2705A5D3AE5B}|Dominio\\Dominio.csproj|d:\\projetos\\projetos_web\\sgd_web\\sgd_web\\dominio\\business\\videosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04726DA-7B1F-4B62-9AC8-2705A5D3AE5B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\business\\videosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SGD\\Global.asax.cs",
+              "ToolTip": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Global.asax.cs",
+              "RelativeToolTip": "SGD\\Global.asax.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:15:12.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InserirUsuario.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Views\\Usuario\\InserirUsuario.cshtml",
+              "RelativeDocumentMoniker": "SGD\\Views\\Usuario\\InserirUsuario.cshtml",
+              "ToolTip": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Views\\Usuario\\InserirUsuario.cshtml",
+              "RelativeToolTip": "SGD\\Views\\Usuario\\InserirUsuario.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T04:13:26.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SGD\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SGD\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:13:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SGD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\SGD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SGD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAH8BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:56:18.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1b36d890-6a4b-49f3-9aff-2c4b6e7d4f89",
+        "Display": 0,
+        "X": 281,
+        "Y": 186,
+        "Width": 1376,
+        "Height": 1142,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideosBusiness.cs",
+              "DocumentMoniker": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\Dominio\\Business\\VideosBusiness.cs",
+              "RelativeDocumentMoniker": "Dominio\\Business\\VideosBusiness.cs",
+              "ToolTip": "D:\\Projetos\\PROJETOS_WEB\\SGD_WEB\\SGD_WEB\\Dominio\\Business\\VideosBusiness.cs",
+              "RelativeToolTip": "Dominio\\Business\\VideosBusiness.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:15:26.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
